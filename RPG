@@ -1,4 +1,4 @@
-main(){
+gmain(){
    //menu principal
    switch
 
